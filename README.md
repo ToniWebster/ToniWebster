@@ -1,4 +1,6 @@
 
+
+
 <!-------
 I will likely need to set up vercel to use it since this profile focuses on my work inside Private repos. 
 
@@ -9,7 +11,11 @@ I will likely need to set up vercel to use it since this profile focuses on my w
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToniWebster&layout=compact)
 
+![](https://img.shields.io/github/commit-activity/m/ToniWebster)
+![](https://img.shields.io/github/last-commit/ToniWebster)
 
+![](https://img.shields.io/github/commit-activity/m/ToniWebster/ToniWebster)
+![](https://img.shields.io/github/last-commit/ToniWebster/ToniWebster)
 
 <!---
 
